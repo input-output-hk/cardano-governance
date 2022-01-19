@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages for Cardano Governance
+![Cardano-Governance-repository-500](https://user-images.githubusercontent.com/17021249/150047109-13cf39ec-3bfc-43e0-9ea7-9fde588988b4.png)
 
 You can use the [editor on GitHub](https://github.com/input-output-hk/cardano-governance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
